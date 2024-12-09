@@ -47,7 +47,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <!-- Http Components version -->
-        <http-components.version>4.5.10</http-components.version>
+        <http-components.version>4.5.13</http-components.version>
 
         <!-- Specify which Checkstyle ruleset to use -->
         <checkstyle.ruleset>build/checkstyle.xml</checkstyle.ruleset>
